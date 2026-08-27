@@ -1,0 +1,6 @@
+{
+  "name": "Standard Dental Clinic",
+  "description": "Premium, modern dental clinic website for Standard Dental Clinic in Alwal, Hyderabad.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
